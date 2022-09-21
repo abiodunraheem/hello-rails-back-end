@@ -1,24 +1,57 @@
-# README
+# hello-rails-back-end
+This exercise is going to have you create a Rails back-end api.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Built With
 
-Things you may want to cover:
+- Ruby on Rails
 
-* Ruby version
+## Prerequisites
 
-* System dependencies
+- Ruby
+- Ruby on Rails
+- PostgreSQL
 
-* Configuration
+## Install
 
-* Database creation
+- Ruby
+- Ruby on Rails(as a gem)
+- Postgresql database
 
-* Database initialization
+## Getting Started
 
-* How to run the test suite
+To get a local copy of the app, run the following commands in your terminal:
+- `git clone https://github.com/abiodunraheem/hello-rails-back-end.git`
+- `cd /hello-rails-back-end`
+- `bundle install`
 
-* Services (job queues, cache servers, search engines, etc.)
+Run the following commands to run the app
 
-* Deployment instructions
+- `rails db:create`
+- `rails db:migrate`
+- `rails s`
 
-* ...
+In your browser, go to
+
+- `http://localhost:3000/api/v1/greetings`
+
+## Author
+
+👤 **Abiodun Raheem**
+
+- GitHub: [@Abiodunraheem](https://github.com/Abiodunraheem)
+- Twitter: [@abiodunraheem23](https://twitter.com/abiodunraheem23)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abiodun-raheem)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/abiodunraheem/hello-rails-back-end/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed
