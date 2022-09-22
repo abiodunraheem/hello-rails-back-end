@@ -11,6 +11,8 @@ This exercise is going to have you create a Rails back-end api.
 - Ruby on Rails
 - PostgreSQL
 
+[Link to react app](https://github.com/abiodunraheem/hello-react-front-end/pull/1)
+
 ## Install
 
 - Ruby
