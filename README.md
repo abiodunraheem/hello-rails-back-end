@@ -1,0 +1,59 @@
+# hello-rails-back-end
+This exercise is going to have you create a Rails back-end api.
+
+## Built With
+
+- Ruby on Rails
+
+## Prerequisites
+
+- Ruby
+- Ruby on Rails
+- PostgreSQL
+
+[Link to react app](https://github.com/abiodunraheem/hello-react-front-end/pull/1)
+
+## Install
+
+- Ruby
+- Ruby on Rails(as a gem)
+- Postgresql database
+
+## Getting Started
+
+To get a local copy of the app, run the following commands in your terminal:
+- `git clone https://github.com/abiodunraheem/hello-rails-back-end.git`
+- `cd /hello-rails-back-end`
+- `bundle install`
+
+Run the following commands to run the app
+
+- `rails db:create`
+- `rails db:migrate`
+- `rails s`
+
+In your browser, go to
+
+- `http://localhost:3000/api/v1/greetings`
+
+## Author
+
+👤 **Abiodun Raheem**
+
+- GitHub: [@Abiodunraheem](https://github.com/Abiodunraheem)
+- Twitter: [@abiodunraheem23](https://twitter.com/abiodunraheem23)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abiodun-raheem)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/abiodunraheem/hello-rails-back-end/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed
